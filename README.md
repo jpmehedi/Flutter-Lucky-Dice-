@@ -2,7 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Topics Covered 
+- StatefullWidget
+- AppBar 
+- Center
+- Row 
+- Expanded
+- FlatButton
+- Image.Asset
+- setState
+- Function 
+- Dart math libary
+- Random()
 
 This project is a starting point for a Flutter application.
 
@@ -15,3 +26,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Flutter-Lucky-Dice-
+![Screenshot_20200430-214805](https://user-images.githubusercontent.com/29401466/80731931-61dec500-8b2d-11ea-9d13-396592072473.png)
